@@ -1925,6 +1925,14 @@ bitsimple:
   content: BitSimple allows you to buy and sell bitcons using your own wallet. Need bitcoins in a hurry? We deliver purchases coins the same day, usually within an hour.  
   coins: [btc]
 
+copenhagenbitcoin:
+  label: CopenhagenBitcoin
+  countries: [dk]
+  location: [dk]
+  url: https://www.copenhagenbitcoin.dk/
+  content: Copenhagen Bitcoin offers an easy, instant purchasing service and is the leading broker of bitcoin in Denmark. 
+  coins: [btc]
+
 btcontrust:
   label: btcontrust
   countries: [it]
