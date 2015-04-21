@@ -1946,3 +1946,15 @@ Igot:
     </p>
   coins: [btc]
   location: [au, nl, an, in, sg, hk, ae]
+
+SurBTC:
+  label: SurBTC.com
+  countries: [cl]
+  location: [cl]
+  icon: https://www.surbtc.com/favicon.ico
+  url: https://www.surbtc.com/
+  content: |
+     <p>SurBTC is the first safe and reliable way for Chileans to access and invest in bitcoin.</p>
+     <p>Low trading fees: Pay only 0.5% on every market trade</p>
+     <p>Deposit using Chilean bank account or SWIFT for worldwide transfers</p>
+  coins: [btc]
