@@ -393,7 +393,7 @@ coined:
   countries: [nz]
   location: [nz]
   icon: https://coined.co.nz/favicon.ico
-  label: bitNZ
+  label: Coined
   url: https://coined.co.nz/
   content: |
     <p>Convert NZD into BTC. Deposit funds online or over the counter (Kiwibank).</p>
