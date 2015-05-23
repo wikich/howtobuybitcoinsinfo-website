@@ -659,6 +659,47 @@ xcfd:
     </p>
   coins: [btc]
 
+urdubit:
+  label: UrduBit
+  url: https://urdubit.com/
+  location: [pk]
+  countries: [pk]
+  icon: https://urdubit.com/exchange/assets/exchange_logos/urdubit_landing_page_logo.png
+  content: |
+      <p>The first bitcoin exchange in Pakistan</p>
+  coins: [btc]
+
+surbitcoin:
+  label: SurBitcoin
+  url: https://surbitcoin.com/
+  location: [ve]
+  countries: [ve]
+  icon: https://surbitcoin.com/assets/exchange_logos/surbitcoin_landing_page_logo.png
+  content: |
+      <p>The first bitcoin exchange in Venezuela</p>
+  coins: [btc]
+
+
+chilebit:
+  label: ChileBit.NET
+  url: https://chilebit.net/
+  location: [cl]
+  countries: [cl]
+  icon: https://chilebit.net/exchange/assets/exchange_logos/chilebit_landing_page_logo.png
+  content: |
+      <p>The first bitcoin exchange in Chile</p>
+  coins: [btc]
+
+foxbit:
+  label: FoxBit
+  url: https://foxbit.exchange/
+  location: [br]
+  countries: [br]
+  icon: https://foxbit.exchange/assets/exchange_logos/foxbit_landing_page_logo.png
+  content: |
+      <p>The fastest way to buy or sell bitcoins in Brazil.</p>
+  coins: [btc]
+
 mercadobitcoin:
   label: MercadoBitcoin.com.br
   url: http://www.mercadobitcoin.com.br
