@@ -1917,6 +1917,14 @@ bitcurex:
   url: https://pln.bitcurex.com/
   content: One of the largest exchange BTC - PLN accepting polish wire transfers.
   Coins: [btc]
+
+4Coins:
+  label: 4Coins.pl
+  countries: [pl]
+  location: [pl]
+  url: https://4coins.pl/
+  content: Polish Bitcoin currency exchange with integrated online payments and possibility to store funds on a secure wallet.
+  Coins: [btc]  
   
 cointree:
   label: CoinTree
