@@ -466,16 +466,6 @@ bitcoin-central:
   content: An exchange based in France which primarily trades between Bitcoins and Euros.
   coins: [btc]
 
-bitcoinschile:
-  label: BitcoinsChile.cl
-  countries: [cl, us, uk, au, ca, fr, de, in, it, mx, ph, ru, es, at, be, dk, ee, fi, gr, ie, lu, nl, no, pl, pt, se, ch]
-  location: [cl]
-  icon: http://portal.bitcoinschile.cl/wp-content/uploads/2012/10/favicon2.ico
-  url: http://portal.bitcoinschile.cl/
-  content: |
-      <p>Buy bitcoins by bank transfer (Chile only), or by Western Digital or Moneygram (US, some of Europe, India, others.).</p>
-  coins: [btc]
-
 mengmengbi:
   label: Mengmengbi.cn
   countries: [cn]
