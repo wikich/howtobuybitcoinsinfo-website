@@ -58,7 +58,7 @@ function generate_country_boxes_local($data, $currentCountryCode){
 
     //Remove altcoin-only exchanges
     if (
-      isset($service["coins"]) && 
+      isset($service["coins"]) && is_array($service["coins"]) &&
       !in_array(strtoupper("btc"), $service["coins"]) && 
       !in_array(strtolower("btc"), $service["coins"])
       ){
@@ -89,7 +89,7 @@ function generate_country_boxes_nonlocal($data, $currentCountryCode){
   foreach($data as $service){
     //Remove altcoin-only exchanges
     if (
-      isset($service["coins"]) && 
+      isset($service["coins"]) && is_array($service["coins"]) &&
       !in_array(strtoupper("btc"), $service["coins"]) && 
       !in_array(strtolower("btc"), $service["coins"])
       ){
