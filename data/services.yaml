@@ -2017,3 +2017,15 @@ SurBTC:
 + url: https://crxzone.com/
 + content: Buy Bitcoins from CRXzone Singapore registered and Operated business with cash, bank transfer or wire transfer, Digtal currencies like egopay, okpay, perfect money etc. Fast Delivery, Low Price, 7 days a week support with office in central business district.
 + coins: [btc]
+
+FinCCX:
+  label: FinCCX
+  countries: [ax, as, ad, ai, aq, ag, ar, am, aw, au, at, az, bs, bh, bd, bb, by, be, bz, bj, bm, bt, bo, ba, bw, bv, br, io, bn, bg, bf, bi, cm, ca, cv, ky, cf, td, cl, cn, cx, cc, co, km, cg, cd, ck, cr, ci, hr, cu, cy, cz, dk, dj, dm, do, eg, sv, gq, er, ee, et, fk, fo, fj, fi, fr, gf, pf, tf, ga, gm, ge, de, gh, gi, gr, gl, gd, gp, gu, gt, gg, gn, gw, ht, hm, va, hn, hk, hu, is, in, ie, im, il, it, jm, jp, je, jo, kz, ke, ki, kr, kg, lv, lb,  ls, lr, ly, li, lt, lu, mo, mk, mg, mw, my, mv, ml, mt, mh, mq, mr, mu, yt, mx, fm, md, mc, mn, me, ms, ma, mz, nr, np, nl, an, nc, nz, ne, ng, nu, nf, mp, no, om, pw, ps, py, pe, ph, pn, pl, pt, pr, qa, re, ro, ru, rw, sh, kn, lc, pm, vc, ws, sm, st, sa, sn, rs, sc, sl, sg, sk, si, sb, so, za, gs, es, lk, sr, sj, sz, se, ch, tw, tj, tz, th, tl, tg, tk, to, tt, tn, tr, tm, tc, tv, ua, ae, uk, us, um, uy, uz, vu, ve, vn, vg, vi, wf, eh, zm]
+  location: [fi]
+  icon: https://www.finccx.com/hp/favicon.png
+  url: https://www.finccx.com
+  content: |
+     <p>Bitcoin exchange based in Finland. Here you can safely buy and sell bitcoins against US Dollars and Euros at a competitive price. Taker-maker fee structure, allowing a price-maker to earn a commission fee.</p>
+	 <p>Deposits via bank transfer. Secure platform. Excellent customer support in Russian, Finnish, English languages.</p>
+     <p>Join FinCCX and you won’t regret!</p>
+  coins: [btc]  
