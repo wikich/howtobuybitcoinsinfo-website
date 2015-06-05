@@ -458,16 +458,6 @@ CoinBit.it:
     <p>Bitcoin in 5 minuti grazie ad un sistema completamente automatizzato. Contanti, Bonifico e Carte di credito/debito</p>
   coins: [btc, ltc]
 
-posteb:
-  countries: [it]
-  location: [it]
-  icon: /favicon.png
-  label: PosteB.it
-  url: http://www.posteb.it/
-  content: |
-    <p>Acquista Bitcoin con Postepay! Il sistema più veloce, economico, sicuro e anonimo per acquistare Bitcoin con Euro in Italia. Tutto automatico.</p>
-  coins: [btc]
-
 coinbase:
   label: Coinbase.com
   countries: [us]
@@ -1764,15 +1754,6 @@ penny-alts:
   content: English
   coins: [btc, ltc, ppc, nxt, qrk, zet, max, doge, ifc]
    
-  
-postebit:
-  label: Postebit
-  countries: [it]
-  location: [it]
-  url: http://www.postebit.it/
-  content: Con Postebit puoi Comprare Bitcoin con Postepay, con ricarica dal web o in contanti alle poste o nei punti Sisal, è facile veloce e sicuro!  
-  coins: [btc]
-  
 chexbits:
   label: Chexbits
   countries: [us]
