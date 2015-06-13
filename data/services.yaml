@@ -1591,7 +1591,7 @@ CoinMama:
   icon: https://www.coinmama.com/favicon.ico
   label: CoinMama
   url: https://www.coinmama.com
-  content: |<p>Coinmama provides the easiest way to buy virtual currency! Buy Bitcoins and Litecoins with your credit card or Western Union instantlyhere!</p><p><a href="http://buybitcoinspaypal.com/buy-bitcoins-with-paypal-or-debit-card-using-coinmama/">How to buy Bitcoins with CoinMama</a></p>
+  content: |<p>Coinmama provides the easiest way to buy virtual currency! Buy Bitcoins and Litecoins with your credit card or Western Union instantlyhere!</p><p><a href="http://99bitcoins.com/how-to-buy-bitcoin-with-a-credit-card/">How to buy Bitcoins with CoinMama</a></p>
   coins: [btc,ltc]
 
 morrex:
