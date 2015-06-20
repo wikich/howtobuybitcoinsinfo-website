@@ -1,3 +1,14 @@
+Coinfinity:
+  label: Coinfinity
+  location: [at]
+  countries: [at] 
+  icon: https://coinfinity.co/favicon.png
+  url: https://coinfinity.co/
+  content: |
+  <p>Fastest and cheapest service from Austria's leading Bitcoin firm.</p>
+  <p>Buy Bitcoins with SOFORT Überweisung in just minutes.</p>
+  coins: [btc]
+  
 Coinimal:
   label: Coinimal
   location: [at]
