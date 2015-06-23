@@ -1773,14 +1773,6 @@ chexbits:
   content: Cash checks for Bitcoin, no need to link bank account to exchange (US Only)  
   coins: [btc]
   
-bitcoinpinoy:
-  label: Bitcoin Central
-  countries: [nz]
-  location: [nz]
-  url: http://www.Bitcoin-ATM.co.nz
-  content: NZ's Bitcoin ATM - Buy and Sell Bitcoins for cash
-  coins: [btc]
-
 takascoin:
   label: TakasCoin
   countries: [ro]
