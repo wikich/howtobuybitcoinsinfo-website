@@ -10,6 +10,14 @@ Coinimal:
   <p> The average transaction time is two minutes! </p>
   coins: [btc, ltc, nxt]
 
+  CEX.IO:
+  label: CEX.IO
+  countries: [AD, AE, AF, AG, AI, AL, AM, AO, AQ, AR, AS, AT, AU, AW, AX, AZ, BA, BB, BD, BE, BF, BG, BH, BI, BJ, BL, BM, BN, BO, BQ, BR, BS, BT, BV, BW, BY, BZ, CA, CC, CD, CF, CG, CH, CI, CK, CL, CM, CN, CO, CR, CU, CV, CW, CX, CY, CZ, DE, DJ, DK, DM, DO, DZ, EC, EE, EG, EH, ER, ES, ET, FI, FJ, FK, FM, FO, FR, GA, GB, GD, GE, GF, GG, GH, GI, GL, GM, GN, GP, GQ, GR, GS, GT, GU, GW, GY, HK, HM, HN, HR, HT, HU, ID, IE, IL, IM, IN, IO, IQ, IR, IT, JE, JM, JO, JP, KE, KG, KH, KI, KM, KN, KP, KR, KW, KY, KZ, LA, LB, LC, LI, LK, LR, LS, LT, LU, LV, LY, MA, MC, MD, ME, MF, MG, MH, MK, ML, MM, MN, MO, MP, MQ, MR, MS, MT, MU, MV, MW, MX, MY, MZ, NA, NC, NE, NF, NG, NI, NL, NO, NP, NR, NU, NZ, OM, PA, PE, PF, PG, PH, PK, PL, PM, PN, PR, PS, PT, PW, PY, QA, RE, RO, RS, RU, RW, SA, SB, SC, SD, SE, SG, SH, SI, SJ, SK, SL, SM, SN, SO, SR, SS, ST, SV, SX, SY, SZ, TC, TD, TF, TG, TH, TJ, TK, TL, TM, TN, TO, TR, TT, TV, TW, TZ, UG, UM, US, UY, UZ, VA, VC, VG, VI, VN, VU, WF, WS, YE, YT, ZA, ZM, ZW ]
+  icon: http://cex.io/img/favicon64.png
+  url: https://cex.io
+  content: Buy and sell Bitcoins for USD or EUR with payment cards or via bank transfers easily. Get into Bitcoin Trading on the worldwide Bitcoin Exchange.
+  coins: [btc, ltc, doge, drk, nmc, ixc, pot, anc, mec, wdc, ftc, dgb, usde, myr, aur, anc, ghs]
+
 bitcoinxromania:
  label: Bitcoin X Romania
  countries: [ro] 
