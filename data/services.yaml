@@ -390,6 +390,16 @@ bitnz:
     <p>The simple New Zealand Bitcoin exchange. </p>
   coins: [btc]
 
+  nzbcx:
+  countries: [nz]
+  location: [nz]
+  icon: https://nzbcx.com/images/icon.png
+  label: NZBCX
+  url: https://nzbcx.com/
+  content: |
+    <p>Full feature exchange where they literally know all their customers</p>
+  coins: [btc]
+
 bitx_id:
   label: BitX Indonesia
   countries: [id]
@@ -1774,14 +1784,6 @@ chexbits:
   content: Cash checks for Bitcoin, no need to link bank account to exchange (US Only)  
   coins: [btc]
   
-bitcoinpinoy:
-  label: Bitcoin Central
-  countries: [nz]
-  location: [nz]
-  url: http://www.Bitcoin-ATM.co.nz
-  content: NZ's Bitcoin ATM - Buy and Sell Bitcoins for cash
-  coins: [btc]
-
 takascoin:
   label: TakasCoin
   countries: [ro]
