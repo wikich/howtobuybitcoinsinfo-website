@@ -29,6 +29,20 @@ bitcoinxromania:
  content: |
 <p>Bitcoin X Romania is a Romanian crypto currency exchange. Exchange RON/EUR/USD/BTC + other crypto currencies and a low trading fee of 0.5%.</p>
  coins: [btc, ltc, doge]
+ 
+bitboat:
+  label: BitBoat
+  countries: [it, fr, es, gr]
+  location: [it, fr, es, gr]
+  icon: https://www.bitboat.net/res/favicon.png
+  url: https://www.bitboat.net/
+  content: |
+    <p>Buy bitcoin with cash deposit, fully automated.</p>
+    <p>Compra bitcoin pagando in contanti: semplice, veloce e sicuro.</p>
+    <p>Acheter vos bitcoin dans tout les bureaux de poste Français en moins d'une heure.</p>
+    <p>Compra bitcoin en efectivo: fácil, rápido y seguro.</p>
+    <p>Αγόρασε Bitcoin με ταχύτητα και ασφάλεια.</p>
+  coins: [btc, ltc, doge, nmc, xrp]
 
 Fastcoin:
   label: Fastcoin
@@ -470,16 +484,6 @@ PosteBit.it:
     <p>Comprare bitcoin con ricarica postepay in euro contanti dalle poste, sisal, ITB o dal web. Acquistare con postebit è facile, veloce e sicuro!</p>
   coins: [btc]
   
-CoinBit.it:
-  countries: [it]
-  location: [it]
-  icon: http://www.coinbit.it/favicon.ico
-  label: CoinBit
-  url: http://www.coinbit.it/
-  content: |
-    <p>Bitcoin in 5 minuti grazie ad un sistema completamente automatizzato. Contanti, Bonifico e Carte di credito/debito</p>
-  coins: [btc, ltc]
-
 coinbase:
   label: Coinbase.com
   countries: [us]
@@ -1461,18 +1465,6 @@ unisend:
   content: |
     <p>Unisend is a local exchange with operations in Argentina. We offer ARS / BTC exchange.</p>
     <p>Unisend es un exchange local que opera en Argentina. Ofrece la posibilidad de cambiar ARS por BTC y BTC por ARS</p>
-  coins: [BTC]
-
-bitboat:
-  label: BitBoat
-  countries: [it, fr]
-  location: [it, fr]
-  icon: https://www.bitboat.net/res/favicon.png
-  url: https://www.bitboat.net/
-  content: |
-    <p>Buy bitcoin with cash deposit, fully automated.</p>
-    <p>Compra bitcoin pagando in contanti: semplice, veloce e sicuro.</p>
-    <p>Acheter vos bitcoin dans tout les bureaux de poste Français en moins d'une heure.</p>
   coins: [BTC]
 
 coinmotion:
