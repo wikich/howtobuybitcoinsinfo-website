@@ -1,3 +1,30 @@
++bitquick:
++  label: BitQuick
++  countries: [ca, us, au, be, bg, cz, dk, de, ee, ie, el, es, fr, it, cy, lv, lt, lu, hu, mt, nl, at, pl, pt, ro, si, sk, fi, se, uk]
++  location: [us]
++  icon: https://www.bitquick.co/favicon.ico
++  url: https://bitquick.co/
++  content: 
++  	<p><a href="https://www.bitquick.co">Buy bitcoins</a> or sell bitcoins with cash or SEPA in under 10 minutes at BitQuick.co!</p> 
++  	<p>The quickest, simplest way to trade.</p>
++  	<p>Find us on Twitter here: <a href="https://twitter.com/bitquickco">@bitquickco</></p>
++  
++  coins: [btc]
++  
++altquick:
++  label: AltQuick
++  countries: [us]
++  location: [us]
++  icon: https://www.altquick.co/favicon.ico
++  url: https://altquick.co/
++  content: 
++  	<p>Buy over 30 altcoins with cash in under 10 minutes at BitQuick.co!</p> 
++  	<p>The quickest, simplest way to trade.</p>
++  	<p><a href="https://www.altquick.co">Buy Dogecoin</a>, Litecoin, Namecoin, Peercoin, and more!</p>
++  
++  coins: [blk,bitusd,bts,btcd,clam,xcp,dash,dgb,doge,ftc,gemz,ltc,msc,mint,maid,xmr,nmc,nbt,nxt,nvc,pot,ppc,qrk,rdd,xrp,sdc,start,sjcx,swarm,usdt,uno,vrc,vtc,mona,ifc,str,flo,ioc,neos,ixc,opal,tron]
+
+
 Coinfinity:
   label: Coinfinity
   location: [at]
@@ -1046,15 +1073,6 @@ dagensia:
   icon: https://dagensia.eu/wp-content/themes/ecardone/images/favicon.png
   url: https://dagensia.eu/
   content: Dagensia allows you to Buy and Sell Bitcoins and to store Bitcoins securely. You can get your first Bitcoin today with Sofort Uberweisung or Bank wire, or you can start accepting Bitcoins directly into EUR or USD balance and ATM card.
-  coins: [btc]
-
-bitquick:
-  label: BitQuick
-  countries: [ca, us, au, be, bg, cz, dk, de, ee, ie, el, es, fr, it, cy, lv, lt, lu, hu, mt, nl, at, pl, pt, ro, si, sk, fi, se, uk]
-  location: [us]
-  icon: https://www.bitquick.co/favicon.ico
-  url: https://bitquick.co/
-  content: BitQuick.co helps connect Bitcoin buyers and sellers, directly to their own bank accounts. Buy Bitcoins instantly with cash deposit or SEPA transfer from sellers with bitcoin already in escrow for a low 2% fee (0% to sell).
   coins: [btc]
 
 justcoin:
