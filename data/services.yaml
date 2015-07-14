@@ -82,7 +82,7 @@ hitbtc:
 bittybot:
   icon: http://bittybot.co/wp-content/themes/bittybot/favicon.ico
   label: BittyBot
-  countries: [uk, at, be, bl, ch, cy, cz, de, dk, ee, es, es, fi, fk, fr, gf, gg, gi, gr, hr, hu, ie, im, is, it, je, li, lt, lu, lv, mc, mf, mq, mt, nl, no, pl, pm, pt, re, ro, se, si, sk, yt]
+  countries: [uk, at, be, bl, ca, ch, cy, cz, de, dk, ee, es, es, fi, fk, fr, gf, gg, gi, gr, hr, hu, ie, im, is, it, je, li, lt, lu, lv, mc, mf, mq, mt, nl, no, pl, pm, pt, re, ro, se, si, sk, yt]
   location: [uk]
   url: http://bittybot.co/
   content: Buy Bitcoins for the Best Prices with BittyBot - the Bitcoin Price Comparison Website
